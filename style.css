@@ -1,4 +1,4 @@
-.cabeçalho_menu-hamburguer{        
+.cabeçalho_menu-hamburguer{
     width: 24px;/*Largura do ícone*/
 
     height: 24px;/*Altura do ícone*/
@@ -10,7 +10,7 @@
     background-repeat: no-repeat;/*Impede que a imagem de fundo seja repetida*/
 
     background-position: center;/*centraliza a imagem
-} 
+     }
 
 .cabeçalho{
     background-color: var(--branco);/*Define a cor de fundo do cabeçalho*/
